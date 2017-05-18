@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:padding="10dp"
+            android:textSize="12sp"
+            android:layout_weight="1"
+            android:background="@drawable/imput_border"
+            android:textColor="#ffffff"
+            android:hint="Escreva a sua mensagem aqui"/>
+
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_weight="0"
+            android:src="@drawable/input_button_send"
+            android:id="@+id/chatButton"/>
+</LinearLayout>
+

@@ -1,0 +1,26 @@
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/balao_de_fala_left"
+    android:layout_marginTop="20dp"
+    >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Leo"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    />
+
+    <ImageView
+        android:adjustViewBounds="true"
+        android:maxWidth="200dp"
+        android:maxHeight="200dp"
+        android:src="@drawable/aeg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        />
+</LinearLayout>

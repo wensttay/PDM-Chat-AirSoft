@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb70cc6d393659d8ca482909a88e743b529f9ab">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\instant-run_92380968886f94a521c37912df2662a2a4b6903f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_a13fcb3ff39c8bac9d8762e637dfcfe04aca98fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d48e4c1bcc21089fb3824f82cb4c6dced06faca3">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b58a50990b59b48e5ca71495889e6814208de592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a0e534419792c4cfbd5a1f1556a6787fa77f8bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_7fb469ccd97932bf12f97d031ba08d6fd4f10641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_b96c6f3aa55d4b0e33fae4db119f7d98cf65f153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8d8e7976504b754f1e72cd053f82dffb5f117669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_20ee5ca49d3de72328d98a4d2c3cc21ec2977642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fd70df44439eb84a3c15bac3e67da8495e4e8343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4d2bee4696de4a6cb26e938e5d991c3c57579390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_e79c285afc6fe002b1cd6178edd57af47f7bf91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4812face0593bb7035e5f425c632479d6e5dc680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_23d9ff3c65c66d6da48d05ddb2ce6dc955ed1564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_8189d4848c4054120bb5e8a76380fbd7345ef713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_343f0333b9c5898e02d6591490f52c8f8693af45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_d4927e3a3823c9b8b312b8dae2691c001e0f0450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\gson-2.7_fe2b06c84f8d0b60939f487afc843ae9ce110037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0a42e27e53df4bdae6ed03b68b5d1ee2a50a708b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_7800f4c8a835f16005f8bea84e9f0ac267cdd939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\yatts\Documents\Projects\pdm-codigos-20162\FisrtApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d13fec0da2f7ba62744661ce049f5890f61b33f1.jar" />
+    </item>
+
+</items>
